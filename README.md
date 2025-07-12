@@ -1,4 +1,4 @@
-# Graficos-Matplotlib
+# Alura Store / Graficos-Matplotlib
 Acontinuacion se plantea el desarrollo de un planteamiento que ayudara al señor juan a tomar la decision de vender una de sus tiendas basado en datos y graficos que estudian  factores, como:
 
 Los ingresos totales de las tiendas.
